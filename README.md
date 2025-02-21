@@ -39,6 +39,7 @@ Uses Haversine formula for distance calculation.
 Implements Dynamic Programming for route optimization.
 
 Example Output
-Best Route: Aman -> R1 -> C1 -> R2 -> C2 (Total Time: 12.5 min)
+Best Route is: Aman -> R2 -> R1 -> C1 -> C2
+ (Total Time: 1083.9058848339216 minutes)
 
 For any queries, feel free to reach out to @lalit-96 on GitHub.
